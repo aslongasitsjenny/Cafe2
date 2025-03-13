@@ -1,4 +1,4 @@
-# Virtual Cafe - CE303 Assignment - Jennifer Warwick
+# Virtual Cafe 
  
 Meant to replicate a real cafe, a Barista who acts as the server listening for connections, orders, and commands from connected clients e.g. 'order 1 coffee and 1 tea' - like in a normal cafe. Preparing the orders and 
 brewing them. The customer provides their name to the server before proceeding with any commands, the customer then can order coffee and tea; and collect these orders. The customer can also leave at any time. 
